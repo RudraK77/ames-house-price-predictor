@@ -31,3 +31,6 @@ python -m streamlit run app.py
 Uses four features and historical data from one city.
 Not intended to estimate current Indian property prices.
 MAE is an average error, not a guaranteed prediction range.
+
+## Live Demo
+https://ames-house-price-predictor-vawptf5opue3hekqvbavwq.streamlit.app/
